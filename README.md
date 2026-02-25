@@ -6,8 +6,6 @@ Your API is live at `http://127.0.0.1:8000`
 
 ---
 
-### Step 11: Manual Testing (use these in Postman or cURL)
-
 #### 1. Create a User
 ```
 
